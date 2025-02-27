@@ -1,4 +1,4 @@
-# 🛠Self-Healing Application Monitor  
+# Self-Healing Application Monitor  
 
 ## Overview  
 This project is a **self-healing system** that monitors an application, detects failures, and automatically restarts the process if it crashes. It includes:  
@@ -12,9 +12,9 @@ This project is a **self-healing system** that monitors an application, detects 
 - **Flask** (backend API for web dashboard)  
 
 ## Features  
-✔️ **Continuous monitoring** of app crashes  
-✔️ **Auto-restart mechanism** for self-recovery  
-✔️ **Log-based failure tracking**  
-✔️ **Web UI** to check status & restart manually  
+**Continuous monitoring** of app crashes  
+**Auto-restart mechanism** for self-recovery  
+**Log-based failure tracking**  
+**Web UI** to check status & restart manually  
 
   
