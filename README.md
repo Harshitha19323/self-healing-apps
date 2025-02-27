@@ -10,7 +10,6 @@ This project is a **self-healing system** that monitors an application, detects 
 ## Tech Stack  
 - **Python** (for process monitoring)  
 - **Flask** (backend API for web dashboard)  
-- **JavaScript + HTML + CSS** (frontend for monitoring)  
 
 ## Features  
 ✔️ **Continuous monitoring** of app crashes  
